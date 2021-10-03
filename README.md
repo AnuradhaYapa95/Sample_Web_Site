@@ -1,1 +1,1 @@
-# Sample_Web_Site
+A simple website to remind the web-browser of importance of each month of the calendar
